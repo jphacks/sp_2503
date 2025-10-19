@@ -10,6 +10,7 @@
 樽製作をする中で、容量や寸法に合わせて都度都度3DCADで設計図を作る作業がボトルネックとなっていました。
 今回はその解決に取り組みました。
 ### 製品説明（具体的な製品の説明）
+[![IMAGE ALT TEXT HERE](https://jphacks.com/wp-content/uploads/2025/05/JPHACKS2025_ogp.jpg)](https://youtu.be/gw0cpiWfTso?si=Yul90iTKoL97l0Ht‎)
 TARUFlexは、3DCADソフトウェアであるRhinoceros8と、VPLアドオンGrasshopper、Pythonを用いた洋酒樽設計を支援するツールです。
 ### 特長
 #### 1. 経験則からアルゴリズムへ
