@@ -1,6 +1,6 @@
 # TARUFlex(タルフレックス)
 
-[![操作画面の画像](GitHub_Main.jpg)
+![操作画面の画像](GitHub_Main.jpg)
 
 ## 製品概要
 樽づくり×Tech
