@@ -1,6 +1,6 @@
 # TARUFlex(タルフレックス)
 
-[![IMAGE ALT TEXT HERE](https://jphacks.com/wp-content/uploads/2025/05/JPHACKS2025_ogp.jpg)](https://youtu.be/gw0cpiWfTso?si=Yul90iTKoL97l0Ht‎)
+[![操作画面の画像](GitHub_Main.jpg)
 
 ## 製品概要
 樽づくり×Tech
